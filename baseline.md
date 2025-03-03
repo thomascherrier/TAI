@@ -60,5 +60,3 @@ afficher l'IP :
 `apt install bsdgames`
 
 Comment accéder et lancer les jeux :-) ?
-
-
